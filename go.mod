@@ -4,6 +4,7 @@ go 1.12
 
 require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
+	github.com/emicklei/go-restful v2.10.0+incompatible
 	github.com/gin-gonic/gin v1.4.0
 	github.com/go-redis/redis v6.15.5+incompatible
 	github.com/labstack/echo v3.3.10+incompatible
